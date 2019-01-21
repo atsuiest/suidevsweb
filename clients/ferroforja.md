@@ -1,5 +1,6 @@
 ## Reporte de trabajo Ferroforja
 `19/01/2019`
+
 ### Notebook PackardBell
 
  - Optimización
@@ -10,11 +11,12 @@
  
  - Instalación solicitada
  -- Microsoft Office
- -- Norton Security*
+ -- Norton Security
  
  - Observaciones
  -- La temperatura general estaba por sobre el promedio. Probablemente particulas del ambiente de trabajo en la ventilación. Se recomienda limpiar.
  --  La falla en pantalla en algunos casos se puede reparar, requiere diagnóstico para descartar cambio de pantalla.
+
 ### All-in-One HP 
 
  - Optimización
